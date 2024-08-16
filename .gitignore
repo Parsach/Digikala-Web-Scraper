@@ -1,0 +1,11 @@
+digikalascrap/
+.zip
+.text
+.vscode/
+.ipynb_checkpoints
+__pycache__/
+chromedriver-win64.zip
+chromedriver-win64/
+img_url.text
+ptoduct_url.text
+redme.txt
